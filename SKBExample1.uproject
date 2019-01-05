@@ -6,7 +6,8 @@
 	"Plugins": [
 		{
 			"Name": "SimpleKeyBindings",
-			"Enabled": true
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/b63e39781d074e7db91ce755a0a76248"
 		}
 	]
 }
